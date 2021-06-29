@@ -1,0 +1,29 @@
+connect camera to terminal
+
+cd Desktop
+
+
+
+cd AE
+
+
+sudo systemctl staapache2
+
+
+ngork http 7045
+
+
+open new terminal
+
+cd Desktop
+
+cd AE
+
+sudo python3 main.py
+
+open alexa console
+
+change endpoint to new
+save endpoint
+
+test
